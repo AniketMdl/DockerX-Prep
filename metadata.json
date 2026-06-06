@@ -1,0 +1,8 @@
+{
+  "name": "Remix: DocerX",
+  "description": "Secure enterprise-grade digital document signature platform with JWT authentication, custom PDF signing, and cryptographically verified audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
